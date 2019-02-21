@@ -14,6 +14,10 @@ import org.springframework.http.converter.HttpMessageConverter;
 @MapperScan("com.hbc.demo1.dao")
 public class Demo1Application {
     public static void main(String[] args) {
+        
+        //你好,我是你爸爸
+        
+        
         SpringApplication.run(Demo1Application.class, args);
     }
     @Bean
