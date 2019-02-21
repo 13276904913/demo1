@@ -1,0 +1,6 @@
+server:
+  port: 8988
+  context-path: /demo1
+  jsp-servlet:
+    init-parameters:
+      development: true
